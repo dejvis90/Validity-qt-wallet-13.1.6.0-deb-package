@@ -15,8 +15,8 @@ These dependencies are required:
 
 # If dependencies are unmet - open terminal and copy/paste the next lines in to your terminal:
 
-sudo apt-get install libssl-dev                       
+sudo apt-get install libssl-dev -y                       
 
-sudo apt-get install libboost-all-dev
+sudo apt-get install libboost-all-dev -y
 
-sudo apt-get install libevent-dev
+sudo apt-get install libevent-dev -y
