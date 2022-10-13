@@ -5,4 +5,4 @@ All debian users can download the deb package and install on their distribution.
 
 sudo apt install ./validity_13.1.6.0-1_amd64.deb
 
-# Open the terminal in the folder where you downloaded the .deb file.
+(Open the terminal in the folder where you downloaded the .deb file)
