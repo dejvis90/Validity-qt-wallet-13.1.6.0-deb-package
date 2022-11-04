@@ -1,5 +1,5 @@
 # Validity-qt-wallet-13.1.6.0-deb-package
-All debian users can download the deb package and install on their distribution.Works on Kali,Ubuntu and Mint
+All debian users can download the deb package and install on their distribution.Works on Kali,Ubuntu 20.04 and older.It works on Mint,even on the latest Cinamon 21 release.
 
 # Install it using a simple command:
 
